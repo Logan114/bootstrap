@@ -1,0 +1,4 @@
+header,article,nav,section,footer aside{
+    border: 1px solid gray;
+    padding: 10px;
+}
